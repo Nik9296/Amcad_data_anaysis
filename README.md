@@ -30,7 +30,7 @@ The AMCAD Data Analysis project provides valuable insights into the factors that
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AniketLokhande801/AMCAD_DATA_ANALYASIS.git
+    git clone https://github.com/Nik9296/Amcad_data_anaysis
     ```
 2. Navigate to the project directory:
     ```bash
